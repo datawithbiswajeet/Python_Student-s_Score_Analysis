@@ -80,9 +80,12 @@ This project demonstrates a complete **data science workflow** — from data cle
 # 🔗 Connect with Me
     Let’s connect and collaborate!
 
-### 📧 Email: datawithbiswajeet@email.com
+### 💼 LinkedIn: [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/datawithbiswajeet)
 
-### 💼 LinkedIn: (https://www.linkedin.com/in/datawithbiswajeet/)
+### 🙌 Stay Connected [![Follow on GitHub](https://img.shields.io/github/followers/datawithbiswajeet?label=Follow%20Me&style=social)](https://github.com/datawithbiswajeet)
+
+### 📧 Email: [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail)](mailto:datawithbiswajeet@gmail.com)
+
 
 
 
