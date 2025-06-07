@@ -86,8 +86,6 @@ This project demonstrates a complete **data science workflow** — from data cle
 
 ### 📧 Email: [![Email Me](https://img.shields.io/badge/Email-Contact%20Me-red?style=social&logo=gmail)](mailto:datawithbiswajeet@gmail.com)
 
-### <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=datawithbiswajeet" target="_blank">Follow on LinkedIn</a>
-
 
 
 
